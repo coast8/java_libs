@@ -34,3 +34,5 @@ package org.apache.commons.lang3.math
 
 class NumberUtils
 
+Ex: NumberUtils.INTEGER_ZERO.toString()
+
